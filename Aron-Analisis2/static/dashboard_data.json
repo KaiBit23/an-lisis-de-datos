@@ -1,0 +1,81 @@
+{
+    "stats": {
+        "promedio_general": 7.04,
+        "tasa_reprobacion": 12.5,
+        "estudiantes_riesgo_count": 3
+    },
+    "top_reprobacion": [
+        {
+            "nombre": "Algoritmos",
+            "porcentaje": 25.0
+        },
+        {
+            "nombre": "Estadística",
+            "porcentaje": 16.7
+        },
+        {
+            "nombre": "Cálculo",
+            "porcentaje": 14.3
+        },
+        {
+            "nombre": "Base de Datos",
+            "porcentaje": 0.0
+        },
+        {
+            "nombre": "Física",
+            "porcentaje": 0.0
+        }
+    ],
+    "promedios_carrera": [
+        {
+            "carrera": "Ingeniería Industrial",
+            "promedio": 7.4
+        },
+        {
+            "carrera": "Ingeniería en Computación",
+            "promedio": 7.1
+        },
+        {
+            "carrera": "Ingeniería Mecánica",
+            "promedio": 6.8
+        },
+        {
+            "carrera": "Ingeniería Civil",
+            "promedio": 6.8
+        }
+    ],
+    "estudiantes_riesgo": [
+        {
+            "id_estudiante": 22,
+            "carrera": "Ingeniería Mecánica",
+            "materia": "Estadística",
+            "calificacion": 5.0
+        },
+        {
+            "id_estudiante": 26,
+            "carrera": "Ingeniería en Computación",
+            "materia": "Algoritmos",
+            "calificacion": 5.0
+        },
+        {
+            "id_estudiante": 61,
+            "carrera": "Ingeniería Mecánica",
+            "materia": "Cálculo",
+            "calificacion": 5.0
+        }
+    ],
+    "tendencia": [
+        {
+            "año": 2022,
+            "promedio": 6.86
+        },
+        {
+            "año": 2023,
+            "promedio": 7.11
+        },
+        {
+            "año": 2024,
+            "promedio": 7.12
+        }
+    ]
+}

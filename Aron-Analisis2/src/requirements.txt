@@ -1,0 +1,5 @@
+# requirements.txt
+# Agrega aquí tus dependencias, por ejemplo:
+# requests
+# pandas
+
